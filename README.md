@@ -16,3 +16,8 @@ npm install
 - gulp-htmlmin: v5.0.1
 - gulp-sass: v4.0.1
 - browser-sync: v2.24.7
+
+## Para ejecutar el proyecto
+```bash
+gulp watch
+```
