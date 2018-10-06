@@ -2,7 +2,7 @@
 
 Base para desarrollar un proyecto web utilizando gulp con sass, autoprefixer, htmlmin y browser-sync el cual 
 te permite trabajar sin preocuparte de tu versión de producción ya que te la genera automaticamente dentro de
-la carpeta ```dist``` también al efectuar cualquier cambio dentro de sus archivos html y scss el navegador se
+la carpeta ```./dist``` también al efectuar cualquier cambio dentro de sus archivos html y scss el navegador se
 recargara automaticamente.
 
 - Recuerde instalar las dependencias del proyecto
